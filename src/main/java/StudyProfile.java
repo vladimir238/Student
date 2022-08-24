@@ -1,9 +1,9 @@
 public enum StudyProfile {
 
     MEDICINE("Медицина"),
-    TECHNOLOGIE("Технология"),
-    MANYPROFILE("Многопрофильный"),
-    AYTOMATISATION("Автоматизация");
+    PHYSICS("Физика"),
+    LINGUISTICS("Лингвистический");
+
     private String title;
 
     StudyProfile(String title) {
