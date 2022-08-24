@@ -11,10 +11,9 @@ import java.util.Iterator;
 import java.util.List;
 
 public class ExcelIO {
-    Student student;
 
 
-    public static void parse(String fileName) {
+    public static void readstudent(String fileName) {
         String s1 = "";
         String s2 = "";
         int a = 0;
