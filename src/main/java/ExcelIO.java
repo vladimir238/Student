@@ -11,26 +11,29 @@ import java.util.Iterator;
 import java.util.List;
 
 public class ExcelIO {
+    static XSSFWorkbook workBook;
 
 
-    public static void readstudent(String fileName) {
-        String s1 = "";
-        String s2 = "";
-        String s3 = "";
-        String s4 = "";
-        int a = 0;
-        float b = 0f;
-        StudyProfile studyProfile=null;
-
+    public static void readfilestudent(String fileName) {
 
         InputStream inputStream;
-        XSSFWorkbook workBook = null;
         try {
             inputStream = new FileInputStream(fileName);
             workBook = new XSSFWorkbook(inputStream);
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+
+    public List<Student> addliststudent(String fileName) {
+        String s1 = "";
+        String s2 = "";
+//        String s3 = "";
+//        String s4 = "";
+        int a = 0;
+        float b = 0f;
+        readfilestudent(fileName);
         List<Student> studentList = new ArrayList<>();
         Sheet sheet = workBook.getSheet("Студенты");
         Iterator<Row> it = sheet.iterator();
@@ -73,12 +76,22 @@ public class ExcelIO {
             }
             studentList.add(new Student(s2, s1, a, b));
         }
-        for (Student w : studentList) {
-            System.out.println(w);
-        }
+
+        return studentList;
+    }
+
+
+    public List<University> addlistunivercity(String fileName) {
+        String s1 = "";
+        String s2 = "";
+        String s3 = "";
+        String s4 = "";
+        int a = 0;
+        StudyProfile studyProfile = null;
+
+        readfilestudent(fileName);
         List<University> universityList = new ArrayList<>();
         Sheet sheet1 = workBook.getSheet("Университеты");
-        System.out.println("Университеты");
         Iterator<Row> it1 = sheet1.iterator();
         it1.next();
         while (it1.hasNext()) {
@@ -114,7 +127,7 @@ public class ExcelIO {
                         break;
                     case 4:
                         s4 = cell.getStringCellValue();
-                        studyProfile=StudyProfile.valueOf(s4);
+                        studyProfile = StudyProfile.valueOf(s4);
 
                         break;
                     default:
@@ -123,20 +136,14 @@ public class ExcelIO {
                 }
                 i++;
             }
-            universityList.add(new University(s1, s2, s3,a, studyProfile));
-        }
-       // printList(universityList);
-        for (University w : universityList) {
-            System.out.println(w);
-        }
-    }
-
-    public static void printList( List<Object> rty){
-        for (Object w : rty){
-            System.out.println(w);
+            universityList.add(new University(s1, s2, s3, a, studyProfile));
         }
 
+        return universityList;
     }
+
+
 }
+
 
 
