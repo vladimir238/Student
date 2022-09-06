@@ -1,21 +1,36 @@
+import org.apache.commons.lang3.StringUtils;
+
 import java.io.IOException;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 
 public class Main {
+    private static List<Student> students;
+    private static List<University> universities;
+
     public static void main(String[] args) throws IOException {
         ExcelIO excelIO=new ExcelIO();
-        printList(excelIO.addliststudent("src/main/resources/universityInfo.xlsx"));
-        printListu(excelIO.addlistunivercity("src/main/resources/universityInfo.xlsx"));
+        students=excelIO.addliststudent("src/main/resources/universityInfo.xlsx");
+        universities=excelIO.addlistunivercity("src/main/resources/universityInfo.xlsx");
+        Collections.sort(students, new StudentSortName());
+        printListStudent();
+        Collections.sort(universities, new UnivercitySortName());
+        printListUnuvercity();
+
+
+
 
 
    }
-   public static void printList(List<Student> asd){
-       for (Object w : asd) {
+   public static void printListStudent(){
+       for (Student w : students) {
            System.out.println(w);
        }
    }
-    public static void printListu(List<University> asd){
-        for (Object w : asd) {
+    public static void printListUnuvercity(){
+        for (Object w : universities) {
             System.out.println(w);
         }
     }
