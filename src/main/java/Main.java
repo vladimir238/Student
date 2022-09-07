@@ -19,9 +19,9 @@ public class Main {
         printListStudent();
 
         System.out.println();
-        System.out.println(" Сортировка по курсу");
+        System.out.println(" Сортировка по имени");
         students.stream()
-                .sorted(new StudentSortCourseNumber())
+                .sorted(ChoiceEnum.getMyComparator(StudentEnum.SORTNAME))
                 .forEach(System.out::println);
 
 
