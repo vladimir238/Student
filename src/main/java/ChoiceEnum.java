@@ -8,4 +8,11 @@ public class ChoiceEnum {
         else if (myEnum == StudentEnum.SORTUNIVERCITY) return new StudentSortUnivercityId();
         return null;
     }
+    public static Comparator<University> getMyUnComparator(UnivercityEnum myUnEnum){
+        if (myUnEnum==UnivercityEnum.SORTNAME) return new UnivercitySortName();
+        else if (myUnEnum==UnivercityEnum.SORTID) return new UnivercitySortId();
+        else if (myUnEnum==UnivercityEnum.SORTYEAR) return new UnivercitySortEar();
+       return null;
+
+    }
 }
