@@ -15,5 +15,6 @@ public enum StudyProfile {
     public String toString() {
         return title;
     }
+
 }
 

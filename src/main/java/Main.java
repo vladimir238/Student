@@ -18,6 +18,8 @@ public class Main {
         printListStudent();
         Collections.sort(universities, new UnivercitySortName());
         printListUnuvercity();
+        Collections.sort(students, new StudentAvgExamScore());
+        printListStudent();
 
 
 
