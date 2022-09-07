@@ -1,5 +1,9 @@
+import org.apache.commons.lang3.StringUtils;
+
 import java.io.IOException;
-import java.util.List;
+import java.util.*;
+
+import static java.util.Collections.*;
 
 public class Main {
     private static List<Student> students;
@@ -13,6 +17,12 @@ public class Main {
         students.sort(ChoiceEnum.getMyComparator(StudentEnum.SORTAVGEXAMSCORE));
 
         printListStudent();
+
+        System.out.println();
+        System.out.println(" Сортировка по курсу");
+        students.stream()
+                .sorted(new StudentSortCourseNumber())
+                .forEach(System.out::println);
 
 
 
