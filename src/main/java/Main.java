@@ -1,26 +1,29 @@
-import java.io.IOException;
 import java.util.List;
+
 
 public class Main {
     private static List<Student> students;
     private static List<University> universities;
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         ExcelIO excelIO = new ExcelIO();
         students = excelIO.addliststudent("src/main/resources/universityInfo.xlsx");
         universities = excelIO.addlistunivercity("src/main/resources/universityInfo.xlsx");
         universities.sort(ChoiceEnum.getMyUnComparator(UnivercityEnum.SORTNAME));
-        students.sort(ChoiceEnum.getMyComparator(StudentEnum.SORTAVGEXAMSCORE));
-        System.out.println("Сортировка студентов");
+        StudComparator studComparator1=ChoiceEnum.getMyComparator(StudentEnum.SORTAVGEXAMSCORE);
+        System.out.println("Сортировка студентов по среднему баллу");
+        students.sort(studComparator1);
         printListStudent();
         System.out.println("Сортировка университетов по названию");
         printListUnuvercity();
-        System.out.println();
-        System.out.println(" Сортировка студентов по имени");
+        System.out.println("\n \n  Сортировка студентов по среднему баллу вывод в стриме \n  ");
         students.stream()
-                .sorted(ChoiceEnum.getMyComparator(StudentEnum.SORTNAME))
+                .sorted(studComparator1)
                 .forEach(System.out::println);
-
+        System.out.println("\n  Сортировка университетов по году образования вывод в стриме \n");
+        universities.stream()
+                .sorted(ChoiceEnum.getMyUnComparator(UnivercityEnum.SORTYEAR))
+                .forEach(System.out::println);
 
     }
 
