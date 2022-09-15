@@ -4,8 +4,6 @@ import java.util.List;
 public class Main {
     private static List<Student> students;
     private static List<University> universities;
-    private static University universitie;
-    private static Student student;
 
 
     public static void main(String[] args) {
@@ -16,9 +14,9 @@ public class Main {
         StudComparator studComparator1 = ChoiceEnum.getMyComparator(StudentEnum.SORTAVGEXAMSCORE);
         System.out.println("Сортировка студентов по среднему баллу");
         students.sort(studComparator1);
-        printListStudent(students);
+        students.forEach(System.out::println);
         System.out.println("Сортировка университетов по названию");
-        printListUnuvercity(universities);
+        universities.forEach(System.out::println);
         System.out.println("\n \n  Сортировка студентов по среднему баллу вывод в стриме \n  ");
         students.stream()
                 .sorted(studComparator1)
@@ -53,16 +51,5 @@ public class Main {
 
     }
 
-    public static void printListStudent(List<Student> stud) {
-        for (Student w : stud) {
-            System.out.println(w);
-        }
 
-    }
-
-    public static void printListUnuvercity(List<University> univ) {
-        for (University w : univ) {
-            System.out.println(w);
-        }
-    }
 }
