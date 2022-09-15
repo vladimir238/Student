@@ -1,7 +1,13 @@
+import com.google.gson.annotations.SerializedName;
+
 public class Student {
+    @SerializedName("Имя студента")
     private String fullName;
+    @SerializedName("ID университета")
     private String universityId;
+    @SerializedName("Номер курса")
     private int currentCourseNumber;
+    @SerializedName("Средний балл")
     private float avgExamScore;
 
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
