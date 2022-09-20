@@ -12,6 +12,7 @@ public class ChoiceEnum {
         if (myUnEnum==UnivercityEnum.SORTNAME) return new UnivercitySortName();
         else if (myUnEnum==UnivercityEnum.SORTID) return new UnivercitySortId();
         else if (myUnEnum==UnivercityEnum.SORTYEAR) return new UnivercitySortEar();
+        else if (myUnEnum==UnivercityEnum.STUDYPROFILE) return new UnivercitySortProfile();
        return null;
 
     }

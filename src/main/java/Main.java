@@ -4,15 +4,16 @@ import java.util.List;
 public class Main {
     private static List<Student> students;
     private static List<University> universities;
+    private static StudyProfile unEnum;
 
 
     public static void main(String[] args) {
         ExcelIO excelIO = new ExcelIO();
         students = excelIO.addliststudent("src/main/resources/universityInfo.xlsx");
         universities = excelIO.addlistunivercity("src/main/resources/universityInfo.xlsx");
-        universities.sort(ChoiceEnum.getMyUnComparator(UnivercityEnum.SORTNAME));
-        StudComparator studComparator1 = ChoiceEnum.getMyComparator(StudentEnum.SORTAVGEXAMSCORE);
-        System.out.println("Сортировка студентов по среднему баллу");
+        universities.sort(ChoiceEnum.getMyUnComparator(UnivercityEnum.STUDYPROFILE));
+        StudComparator studComparator1 = ChoiceEnum.getMyComparator(StudentEnum.SORTUNIVERCITY);
+        System.out.println("Сортировка студентов по университету");
         students.sort(studComparator1);
         students.forEach(System.out::println);
         System.out.println("Сортировка университетов по названию");
@@ -48,8 +49,12 @@ public class Main {
             Student studentFromJson = JsonUtil.jsonOneSerialStudent(studentJson);
             System.out.println(studentFromJson);
         });
+        XlsWriter.writeTable(StatisticUtil.createStatistics(students,universities),"src/main/resources/statistics.xlsx");
 
     }
 
 
 }
+
+
+
