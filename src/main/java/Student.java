@@ -1,5 +1,9 @@
 import com.google.gson.annotations.SerializedName;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Student {
     @SerializedName("Имя студента")
     private String fullName;
@@ -17,10 +21,15 @@ public class Student {
         this.avgExamScore = avgExamScore;
     }
 
+    public Student() {
+
+    }
+
     public String getFullName() {
         return fullName;
     }
 
+    @XmlElement(name="Name")
     public void setFullName(String fullName) {
         this.fullName = fullName;
     }
@@ -29,6 +38,7 @@ public class Student {
         return universityId;
     }
 
+    @XmlElement(name = "Id")
     public void setUniversityId(String universityId) {
         this.universityId = universityId;
     }
@@ -37,6 +47,7 @@ public class Student {
         return currentCourseNumber;
     }
 
+    @XmlElement(name = "Course")
     public void setCurrentCourseNumber(int currentCourseNumber) {
         this.currentCourseNumber = currentCourseNumber;
     }
@@ -45,6 +56,7 @@ public class Student {
         return avgExamScore;
     }
 
+    @XmlElement(name = "Avg")
     public void setAvgExamScore(float avgExamScore) {
         this.avgExamScore = avgExamScore;
     }

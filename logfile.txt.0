@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-27T04:05:33.591100500Z</date>
+  <millis>1664251533591</millis>
+  <nanos>100500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-09-27T04:05:33.645473Z</date>
+  <millis>1664251533645</millis>
+  <nanos>473000</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-09-27T04:05:34.246059900Z</date>
+  <millis>1664251534246</millis>
+  <nanos>59900</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-09-27T04:05:34.277952900Z</date>
+  <millis>1664251534277</millis>
+  <nanos>952900</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-06T06:17:43.092377900Z</date>
+  <millis>1665037063092</millis>
+  <nanos>377900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-06T06:17:43.154913600Z</date>
+  <millis>1665037063154</millis>
+  <nanos>913600</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-06T06:17:43.755407400Z</date>
+  <millis>1665037063755</millis>
+  <nanos>407400</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-06T06:17:43.794918700Z</date>
+  <millis>1665037063794</millis>
+  <nanos>918700</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-07T06:11:38.037538600Z</date>
+  <millis>1665123098037</millis>
+  <nanos>538600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-07T06:11:38.117424700Z</date>
+  <millis>1665123098117</millis>
+  <nanos>424700</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-07T06:11:38.900690300Z</date>
+  <millis>1665123098900</millis>
+  <nanos>690300</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-07T06:11:38.932927200Z</date>
+  <millis>1665123098932</millis>
+  <nanos>927200</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-07T06:14:21.935459200Z</date>
+  <millis>1665123261935</millis>
+  <nanos>459200</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-07T06:14:21.987020100Z</date>
+  <millis>1665123261987</millis>
+  <nanos>20100</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-07T06:14:22.516630600Z</date>
+  <millis>1665123262516</millis>
+  <nanos>630600</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-07T06:14:22.553002500Z</date>
+  <millis>1665123262553</millis>
+  <nanos>2500</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-07T06:17:42.408012600Z</date>
+  <millis>1665123462408</millis>
+  <nanos>12600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-07T06:17:42.446015400Z</date>
+  <millis>1665123462446</millis>
+  <nanos>15400</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-07T06:17:42.961460Z</date>
+  <millis>1665123462961</millis>
+  <nanos>460000</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-07T06:17:43.000459300Z</date>
+  <millis>1665123463000</millis>
+  <nanos>459300</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-07T13:11:03.166581500Z</date>
+  <millis>1665148263166</millis>
+  <nanos>581500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-07T13:11:03.277653500Z</date>
+  <millis>1665148263277</millis>
+  <nanos>653500</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-07T13:11:04.020993Z</date>
+  <millis>1665148264020</millis>
+  <nanos>993000</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-07T13:11:04.061823Z</date>
+  <millis>1665148264061</millis>
+  <nanos>823000</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-07T13:11:58.292846300Z</date>
+  <millis>1665148318292</millis>
+  <nanos>846300</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-07T13:11:58.350019200Z</date>
+  <millis>1665148318350</millis>
+  <nanos>19200</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-07T13:11:58.919240100Z</date>
+  <millis>1665148318919</millis>
+  <nanos>240100</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-07T13:11:58.952334600Z</date>
+  <millis>1665148318952</millis>
+  <nanos>334600</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T03:12:54.299211200Z</date>
+  <millis>1665198774299</millis>
+  <nanos>211200</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T03:12:54.354183800Z</date>
+  <millis>1665198774354</millis>
+  <nanos>183800</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T03:12:54.959314100Z</date>
+  <millis>1665198774959</millis>
+  <nanos>314100</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T03:12:55.010314200Z</date>
+  <millis>1665198775010</millis>
+  <nanos>314200</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T03:13:58.820367800Z</date>
+  <millis>1665198838820</millis>
+  <nanos>367800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T03:13:58.865853600Z</date>
+  <millis>1665198838865</millis>
+  <nanos>853600</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T03:13:59.400547500Z</date>
+  <millis>1665198839400</millis>
+  <nanos>547500</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T03:13:59.450216500Z</date>
+  <millis>1665198839450</millis>
+  <nanos>216500</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:14:41</date>
+  <millis>1665198881118</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:14:41</date>
+  <millis>1665198881191</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:14:41</date>
+  <millis>1665198881733</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:14:41</date>
+  <millis>1665198881779</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:16:09</date>
+  <millis>1665198969380</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:16:09</date>
+  <millis>1665198969445</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:16:10</date>
+  <millis>1665198970031</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:16:10</date>
+  <millis>1665198970067</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:16:29</date>
+  <millis>1665198989861</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:16:29</date>
+  <millis>1665198989929</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:16:30</date>
+  <millis>1665198990473</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:16:30</date>
+  <millis>1665198990517</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:18:13</date>
+  <millis>1665199093094</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:18:13</date>
+  <millis>1665199093162</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:18:13</date>
+  <millis>1665199093785</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:18:13</date>
+  <millis>1665199093837</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:18:37</date>
+  <millis>1665199117570</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:18:37</date>
+  <millis>1665199117637</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:18:38</date>
+  <millis>1665199118187</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:18:38</date>
+  <millis>1665199118233</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-08T06:21:52</date>
+  <millis>1665199312637</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-08T06:21:52</date>
+  <millis>1665199312706</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-08T06:21:53</date>
+  <millis>1665199313255</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-08T06:21:53</date>
+  <millis>1665199313310</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T08:30:21</date>
+  <millis>1665293421702</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-09T08:30:21</date>
+  <millis>1665293421803</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-09T08:30:22</date>
+  <millis>1665293422483</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-09T08:30:22</date>
+  <millis>1665293422516</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T08:31:25</date>
+  <millis>1665293485536</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-09T08:31:25</date>
+  <millis>1665293485618</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-09T08:31:26</date>
+  <millis>1665293486163</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-09T08:31:26</date>
+  <millis>1665293486204</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T08:33:21</date>
+  <millis>1665293601636</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-09T08:33:21</date>
+  <millis>1665293601703</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-09T08:33:22</date>
+  <millis>1665293602242</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-09T08:33:22</date>
+  <millis>1665293602281</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-09T08:35:35</date>
+  <millis>1665293735879</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-09T08:35:35</date>
+  <millis>1665293735954</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-09T08:35:36</date>
+  <millis>1665293736525</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-09T08:35:36</date>
+  <millis>1665293736568</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T14:55:30</date>
+  <millis>1665662130375</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T14:55:30</date>
+  <millis>1665662130481</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T14:55:31</date>
+  <millis>1665662131188</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T14:55:31</date>
+  <millis>1665662131228</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T14:55:31</date>
+  <millis>1665662131328</millis>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T15:27:49</date>
+  <millis>1665664069562</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:49</date>
+  <millis>1665664069651</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070208</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070249</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070327</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070444</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070451</millis>
+  <sequence>6</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070453</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070454</millis>
+  <sequence>8</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070504</millis>
+  <sequence>9</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:27:50</date>
+  <millis>1665664070504</millis>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353014</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353086</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353637</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353674</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353748</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353815</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353817</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353867</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:32:33</date>
+  <millis>1665664353867</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T15:33:09</date>
+  <millis>1665664389491</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T15:33:09</date>
+  <millis>1665664389562</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390119</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390157</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390234</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390332</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390333</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390404</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:33:10</date>
+  <millis>1665664390405</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T15:35:25</date>
+  <millis>1665664525246</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T15:35:25</date>
+  <millis>1665664525323</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T15:35:25</date>
+  <millis>1665664525863</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T15:35:25</date>
+  <millis>1665664525908</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T15:35:25</date>
+  <millis>1665664525999</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T15:35:26</date>
+  <millis>1665664526068</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:35:26</date>
+  <millis>1665664526069</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T15:35:26</date>
+  <millis>1665664526132</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T15:35:26</date>
+  <millis>1665664526132</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T17:10:25</date>
+  <millis>1665670225762</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T17:10:25</date>
+  <millis>1665670225912</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T17:10:26</date>
+  <millis>1665670226753</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T17:10:26</date>
+  <millis>1665670226794</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T17:10:26</date>
+  <millis>1665670226896</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T17:10:27</date>
+  <millis>1665670227001</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:10:27</date>
+  <millis>1665670227002</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T17:10:27</date>
+  <millis>1665670227051</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:10:27</date>
+  <millis>1665670227052</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428122</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428197</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428774</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428812</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428920</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428993</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:13:48</date>
+  <millis>1665670428994</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T17:13:49</date>
+  <millis>1665670429048</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:13:49</date>
+  <millis>1665670429048</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T17:26:08</date>
+  <millis>1665671168287</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:08</date>
+  <millis>1665671168365</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:08</date>
+  <millis>1665671168919</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:08</date>
+  <millis>1665671168966</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:09</date>
+  <millis>1665671169059</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:09</date>
+  <millis>1665671169131</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:09</date>
+  <millis>1665671169133</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:09</date>
+  <millis>1665671169186</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:09</date>
+  <millis>1665671169187</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-13T17:26:33</date>
+  <millis>1665671193668</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:33</date>
+  <millis>1665671193735</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Student </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194317</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194356</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл Statistics  </message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194452</millis>
+  <sequence>4</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194527</millis>
+  <sequence>5</sequence>
+  <logger>XmlWriter</logger>
+  <level>INFO</level>
+  <class>XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194528</millis>
+  <sequence>6</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194572</millis>
+  <sequence>7</sequence>
+  <logger>JsonWriter</logger>
+  <level>INFO</level>
+  <class>JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-13T17:26:34</date>
+  <millis>1665671194572</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
