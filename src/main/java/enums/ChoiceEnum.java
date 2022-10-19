@@ -1,3 +1,8 @@
+package enums;
+
+import comparator.*;
+import model.University;
+
 import java.util.Comparator;
 
 public class ChoiceEnum {

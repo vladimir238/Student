@@ -1,3 +1,7 @@
+package comparator;
+
+import model.University;
+
 import java.util.Comparator;
 
 public class UnivercitySortEar implements Comparator<University> {

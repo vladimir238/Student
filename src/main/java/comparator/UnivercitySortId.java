@@ -1,3 +1,6 @@
+package comparator;
+
+import model.University;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Comparator;

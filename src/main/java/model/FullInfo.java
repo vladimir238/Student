@@ -1,3 +1,5 @@
+package model;
+
 import javax.xml.bind.annotation.*;
 import java.util.Date;
 import java.util.List;

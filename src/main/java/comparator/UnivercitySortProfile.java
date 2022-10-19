@@ -1,3 +1,8 @@
+package comparator;
+
+import model.University;
+import enums.StudyProfile;
+import model.Student;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Comparator;

@@ -1,3 +1,5 @@
+package model;
+
 import com.google.gson.annotations.SerializedName;
 
 import javax.xml.bind.annotation.XmlElement;
@@ -63,7 +65,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "model.Student{" +
                 "Ф.И.О  =" + fullName + '\'' +
                 ", ID университета = " + universityId + '\'' +
                 ", Номер курса =" + currentCourseNumber +

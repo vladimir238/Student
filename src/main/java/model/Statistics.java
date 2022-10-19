@@ -1,3 +1,6 @@
+package model;
+import enums.StudyProfile;
+
 public class Statistics {
     private StudyProfile mainProfile;
     private float avgExamScore;
@@ -5,7 +8,7 @@ public class Statistics {
     private int amountUnivercityProfile;
     private String nameUnivercity;
 
-//    public Statistics(StudyProfile mainProfile, float avgExamScore, int amountStudentProfile, int amountUnivercityProfile, int nameUnivercity) {
+//    public model.Statistics(enums.StudyProfile mainProfile, float avgExamScore, int amountStudentProfile, int amountUnivercityProfile, int nameUnivercity) {
 //        this.mainProfile = mainProfile;
 //        this.avgExamScore = avgExamScore;
 //        this.amountStudentProfile = amountStudentProfile;
@@ -58,7 +61,7 @@ public class Statistics {
 
     @Override
     public String toString() {
-        return "Statistics{" +
+        return "model.Statistics{" +
                 "mainProfile=" + mainProfile +
                 ", avgExamScore=" + avgExamScore +
                 ", amountStudentProfile=" + amountStudentProfile +

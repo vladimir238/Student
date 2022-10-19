@@ -1,3 +1,8 @@
+package io;
+
+import model.FullInfo;
+import util.JsonUtil;
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -60,7 +65,7 @@ public class JsonWriter {
                     new FileOutputStream("jsonReqs/statistics" + fullInfo.getProcessDate().getTime() + ".json");
             outputStream.write(studentsJson.getBytes(StandardCharsets.UTF_8));
         } catch (IOException e) {
-            logger.log(Level.SEVERE, "Statistics JSON writing failed", e);
+            logger.log(Level.SEVERE, "model.Statistics JSON writing failed", e);
         }
     }
 }

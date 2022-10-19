@@ -1,4 +1,6 @@
-import java.util.Comparator;
+package comparator;
+
+import model.Student;
 
 public class StudentAvgExamScore  implements StudComparator {
     public int compare(Student student1, Student student2) {

@@ -1,6 +1,6 @@
-import org.apache.commons.lang3.StringUtils;
+package comparator;
 
-import java.util.Comparator;
+import model.Student;
 
 public class StudentSortCourseNumber implements StudComparator {
     public int compare(Student student1, Student student2) {
