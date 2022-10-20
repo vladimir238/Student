@@ -8,13 +8,7 @@ public class Statistics {
     private int amountUnivercityProfile;
     private String nameUnivercity;
 
-//    public model.Statistics(enums.StudyProfile mainProfile, float avgExamScore, int amountStudentProfile, int amountUnivercityProfile, int nameUnivercity) {
-//        this.mainProfile = mainProfile;
-//        this.avgExamScore = avgExamScore;
-//        this.amountStudentProfile = amountStudentProfile;
-//        this.amountUnivercityProfile = amountUnivercityProfile;
-//        this.nameUnivercity = nameUnivercity;
-//    }
+
     public Statistics(){
 
     }

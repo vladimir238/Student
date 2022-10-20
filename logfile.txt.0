@@ -2143,3 +2143,655 @@
   <message>Читаем данные из файла model.Student </message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T06:28:12</date>
+  <millis>1666236492800</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:12</date>
+  <millis>1666236492893</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493534</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Читаем данные из файла Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493578</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Пишем данные в файл model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493727</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493874</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493883</millis>
+  <sequence>6</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493885</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493886</millis>
+  <sequence>8</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493928</millis>
+  <sequence>9</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:28:13</date>
+  <millis>1666236493928</millis>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T06:51:25</date>
+  <millis>1666237885280</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T06:51:25</date>
+  <millis>1666237885355</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T06:51:25</date>
+  <millis>1666237885900</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T06:51:25</date>
+  <millis>1666237885942</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Write data at model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T06:51:26</date>
+  <millis>1666237886031</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T06:51:26</date>
+  <millis>1666237886125</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:51:26</date>
+  <millis>1666237886128</millis>
+  <sequence>6</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T06:51:26</date>
+  <millis>1666237886180</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:51:26</date>
+  <millis>1666237886181</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T06:55:43</date>
+  <millis>1666238143811</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T06:55:43</date>
+  <millis>1666238143880</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144444</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144483</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Write data at model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144578</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144687</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144689</millis>
+  <sequence>6</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144753</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T06:55:44</date>
+  <millis>1666238144754</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T09:01:49</date>
+  <millis>1666245709926</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710002</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710532</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710573</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Write data at model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710672</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710783</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710785</millis>
+  <sequence>6</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710846</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T09:01:50</date>
+  <millis>1666245710848</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T19:42:37</date>
+  <millis>1666284157738</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T19:42:37</date>
+  <millis>1666284157842</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158508</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158553</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Write data at model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158677</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158846</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158849</millis>
+  <sequence>6</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158892</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T19:42:38</date>
+  <millis>1666284158893</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-20T19:53:14</date>
+  <millis>1666284794912</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-10-20T19:53:14</date>
+  <millis>1666284794989</millis>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data model.Student </message>
+</record>
+<record>
+  <date>2022-10-20T19:53:15</date>
+  <millis>1666284795697</millis>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read data Univercity </message>
+</record>
+<record>
+  <date>2022-10-20T19:53:15</date>
+  <millis>1666284795743</millis>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+
+ Write data at model.Statistics  </message>
+</record>
+<record>
+  <date>2022-10-20T19:53:15</date>
+  <millis>1666284795882</millis>
+  <sequence>4</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2022-10-20T19:53:16</date>
+  <millis>1666284796024</millis>
+  <sequence>5</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T19:53:16</date>
+  <millis>1666284796026</millis>
+  <sequence>6</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2022-10-20T19:53:16</date>
+  <millis>1666284796064</millis>
+  <sequence>7</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2022-10-20T19:53:16</date>
+  <millis>1666284796064</millis>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
